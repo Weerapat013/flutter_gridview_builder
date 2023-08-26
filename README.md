@@ -5,7 +5,7 @@
 
 ## List Data
 
-<img src='assets/images/final_work.png' width='300px'>
+<img src='assets/images/final_work.PNG' width='300px'>
 
 ## Getting Started
 
